@@ -39,6 +39,9 @@ nav {
     text-decoration: none;
     cursor: pointer;
   }
+  a:hover{
+    color: #0082C8;
+  }
 }
 .d-3 {
   display: flex;
@@ -48,6 +51,9 @@ nav {
   a {
     color: #000;
     text-decoration: none;
+  }
+  a:hover{
+    color: #0082C8;
   }
   button {
     margin-right: 3.5rem;
